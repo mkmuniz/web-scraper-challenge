@@ -1,0 +1,24 @@
+{
+  "name": "web-scraper-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worstp/web-scraper-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worstp/web-scraper-challenge/issues"
+  },
+  "homepage": "https://github.com/worstp/web-scraper-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  },
+  "dependencies": {
+    "playwright": "^1.27.1"
+  }
+}
